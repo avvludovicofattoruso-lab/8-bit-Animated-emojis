@@ -1,4 +1,4 @@
-# 8-bit-Animated-emojis
+# 8-bit-Animated-emojns
 Arduino display driver code for 8-bit 3D printing models compatible with ESP32-C3 Mini and 0.96-inch OLED
 
 When burning programs, please download the two runtime libraries U8g2 and Bounce2 via the library manager of Arduino before uploading the program!
